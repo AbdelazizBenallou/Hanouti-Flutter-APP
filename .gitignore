@@ -39,6 +39,56 @@ app.*.symbols
 # Obfuscation related
 app.*.map.json
 
+# Generated test data
+test_data_*.db
+
+# Local sensitive configuration
+.env
+.env.*
+!.env.example
+.opencode/
+
+# Credentials and signing keys
+*.pem
+*.key
+*.p8
+*.p12
+*.jks
+*.keystore
+key.properties
+android/key.properties
+ios/Runner/*.mobileprovision
+ios/Runner/*.cer
+
+# Local database files and journals
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-shm
+*.db-wal
+--verify*
+
+# Private/generated data folders
+/backup/
+/backups/
+/exports/
+/reports/
+/private/
+/tmp/
+/temp/
+/docs/private/
+/docs/internal/
+/docs/licensing_system.md
+/tools/keys/
+
+# Internal planning and generated report files
+/KEY_STEPS.txt
+/field_level_merge_plan.txt
+/large_file_backup_plan.txt
+/sync_scenarios_analysis.txt
+/technical_report.pdf
+
 # Android Studio will place build artifacts here
 /android/app/debug
 /android/app/profile
