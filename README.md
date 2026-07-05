@@ -14,29 +14,28 @@ The interface supports Arabic, French, and English, with right-to-left layout su
 
 <table>
   <tr>
+    <td><img src="assets/app/1.jpg" width="220" alt="App screenshot 1"></td>
     <td><img src="assets/app/photo_1_2026-07-05_11-38-32.jpg" width="220" alt="App screenshot 1"></td>
     <td><img src="assets/app/photo_2_2026-07-05_11-38-32.jpg" width="220" alt="App screenshot 2"></td>
-    <td><img src="assets/app/photo_3_2026-07-05_11-38-32.jpg" width="220" alt="App screenshot 3"></td>
   </tr>
   <tr>
+    <td><img src="assets/app/photo_3_2026-07-05_11-38-32.jpg" width="220" alt="App screenshot 3"></td>
     <td><img src="assets/app/photo_4_2026-07-05_11-38-32.jpg" width="220" alt="App screenshot 4"></td>
     <td><img src="assets/app/photo_5_2026-07-05_11-38-32.jpg" width="220" alt="App screenshot 5"></td>
-    <td><img src="assets/app/photo_6_2026-07-05_11-38-32.jpg" width="220" alt="App screenshot 6"></td>
   </tr>
   <tr>
     <td><img src="assets/app/photo_7_2026-07-05_11-38-32.jpg" width="220" alt="App screenshot 7"></td>
     <td><img src="assets/app/photo_8_2026-07-05_11-38-32.jpg" width="220" alt="App screenshot 8"></td>
-    <td><img src="assets/app/photo_9_2026-07-05_11-38-32.jpg" width="220" alt="App screenshot 9"></td>
+    <td><img src="assets/app/photo_6_2026-07-05_11-38-32.jpg" width="220" alt="App screenshot 6"></td>
   </tr>
   <tr>
+    <td><img src="assets/app/photo_9_2026-07-05_11-38-32.jpg" width="220" alt="App screenshot 9"></td>
     <td><img src="assets/app/photo_10_2026-07-05_11-38-32.jpg" width="220" alt="App screenshot 10"></td>
     <td><img src="assets/app/photo_11_2026-07-05_11-38-32.jpg" width="220" alt="App screenshot 11"></td>
-    <td><img src="assets/app/photo_12_2026-07-05_11-38-33.jpg" width="220" alt="App screenshot 12"></td>
   </tr>
   <tr>
+    <td><img src="assets/app/photo_12_2026-07-05_11-38-33.jpg" width="220" alt="App screenshot 12"></td>
     <td><img src="assets/app/photo_13_2026-07-05_11-38-33.jpg" width="220" alt="App screenshot 13"></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
@@ -179,13 +178,6 @@ The project includes custom fonts and image assets:
 ## Developer
 
 Developed by Benallou Abdelaziz.
-
-Links included in the application:
-
-- GitHub: `github.com/AbdelazizBenallou`
-- LinkedIn: `www.linkedin.com/in/abdelaziz-benallou-1a0428377`
-- Telegram: `t.me/aziz_benallou`
-- YouTube: `youtube.com/@abdelazizbenallou`
 
 ## License
 
