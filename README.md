@@ -180,13 +180,6 @@ The project includes custom fonts and image assets:
 
 Developed by Benallou Abdelaziz.
 
-Links included in the application:
-
-- GitHub: `github.com/AbdelazizBenallou`
-- LinkedIn: `www.linkedin.com/in/abdelaziz-benallou-1a0428377`
-- Telegram: `t.me/aziz_benallou`
-- YouTube: `youtube.com/@abdelazizbenallou`
-
 ## License
 
 This repository does not currently include a public license file. Add a license before publishing the project publicly if redistribution or commercial use must be defined.
