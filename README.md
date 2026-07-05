@@ -181,4 +181,3 @@ Developed by Benallou Abdelaziz.
 
 ## License
 
-This repository does not currently include a public license file. Add a license before publishing the project publicly if redistribution or commercial use must be defined.
